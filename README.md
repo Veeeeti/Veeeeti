@@ -1,4 +1,4 @@
-**🚀 Something along the lines of an entrepreneur, an engineer, and a designer.**
+** Engineering student, entrepreneur, design 🚀**
 
 
 
