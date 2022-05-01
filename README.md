@@ -1,4 +1,4 @@
-Engineering student, entrepreneur, design 🚀
+Engineering student and entrepreneur 🚀
 
 
 <!---
