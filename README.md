@@ -1,9 +1,6 @@
-Engineering student and entrepreneur 🚀
+Co-Founder at Saucesoft 🚀 SauceSoft is a full-service software company. We provide comprehensive software solutions, whether it's mobile application development, e-commerce, or website development.
 
-I run a software company called Saucesoft. We specialized in developing software for startups and SaaS companies.
-If you are a developer you should get in touch with me. We offer remotework where you can decide all your hours.
-
-Go check out my company [SauceSoft](www.saucesoft.io).
+Go check us out at [saucesoft.io](www.saucesoft.io).
 
 <!---
 Veeeeti/Veeeeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
